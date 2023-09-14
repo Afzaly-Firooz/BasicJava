@@ -5,6 +5,7 @@ abstract class toyota {
 }
 
 class corolla extends toyota {
+	// this is abstract class.
 
 	void example() {
 		System.out.println("this is my new calss");
